@@ -1,6 +1,6 @@
 from mcp.server.fastmcp import FastMCP
 from tools.math import add
-
+#test test test 
 mcp = FastMCP("docs")
 
 mcp.tool()(add)
